@@ -30,9 +30,9 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhenya-roadtojapan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akirasudo&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zhenya-roadtojapan&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akirasudo&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
